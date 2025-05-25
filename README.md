@@ -4,6 +4,7 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NuyoahCh" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=NuyoahCh" />
     <img  src="https://github-profile-trophy.vercel.app/?username=NuyoahCh" />
