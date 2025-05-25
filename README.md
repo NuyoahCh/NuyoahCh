@@ -1,11 +1,9 @@
 ## Hi there 👋
-![](https://raw.githubusercontent.com/NuyoahCh/NuyoahCh/main/dist/github-contribution-grid-snake.svg)
 <div align="center">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NuyoahCh" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-NuyoahCh.vercel.app/graph?username=NuyoahCh&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **NuyoahCh/NuyoahCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
