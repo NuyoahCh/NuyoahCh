@@ -4,6 +4,10 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NuyoahCh" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=NuyoahCh" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=NuyoahCh" />
+</div>
 
 <!--
 **NuyoahCh/NuyoahCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
