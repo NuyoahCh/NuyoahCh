@@ -13,15 +13,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuyoahCh&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NuyoahCh&color=blueviolet" alt="Profile Views" />
-</div>
+### ⏰ Wakatime Stats
 
 ### 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NuyoahCh)
