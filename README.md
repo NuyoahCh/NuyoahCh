@@ -26,7 +26,6 @@
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuyoahCh&theme=radical" />
-    <img src="https://github-profile-trophy.vercel.app/?username=NuyoahCh&theme=radical&row=1" />
 </div>
 
 ### Connect With Me
