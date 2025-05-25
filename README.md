@@ -8,7 +8,7 @@
 嗨，你好，我是 NuyoahCh。热爱编程、学习新技术、分享与成长。
 > 跑下去，太阳自然会升起。
 
-![github-snake](https://github.com/NuyoahCh/NuyoahCh/blob/output/github-contribution-grid-snake.svg)
+![github-snake](https://raw.githubusercontent.com/NuyoahCh/NuyoahCh/output/github-contribution-grid-snake.svg)
 
 ### 🛠️ Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
