@@ -4,7 +4,7 @@
 
 ## 🙋 Hello
 嗨，你好，我是 NuyoahCh。热爱编程、学习新技术、分享与成长。
-> 路漫漫其修远兮，吾将上下而求索。
+> 跑下去，太阳自然会升起。
 
 ### 🛠️ Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -15,21 +15,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuyoahCh&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&langs_count=8&theme=radical" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NuyoahCh&color=blueviolet" alt="Profile Views" />
 </div>
 
-### ⏰ Wakatime Stats
-[![wakatime](https://wakatime.com/badge/user/你的wakatimeID.svg)](https://wakatime.com/@你的wakatimeID)
-
 ### 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NuyoahCh)
-[![Blog](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](你的博客链接)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](你的B站链接)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Blog](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://nuyoahch.online)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3494367037753464?spm_id_from=333.1007.0.0)
 
 ---
 <!--
