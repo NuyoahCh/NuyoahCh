@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=nuyoahch.online)](https://git.io/typing-svg)
 <div align="center">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NuyoahCh" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&langs_count=8" />
