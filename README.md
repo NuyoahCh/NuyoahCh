@@ -10,17 +10,31 @@
 
 ![github-snake](https://raw.githubusercontent.com/NuyoahCh/NuyoahCh/output/github-contribution-grid-snake.svg)
 
-### 🛠️ Tech Stack
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+---
 
-### ⏰ Wakatime Stats
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+</p>
+
+---
 
 ### 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NuyoahCh)
-[![Blog](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://nuyoahch.online)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3494367037753464?spm_id_from=333.1007.0.0)
+
+<p align="center">
+  <a href="https://github.com/NuyoahCh">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://nuyoahch.online">
+    <img src="https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+  </a>
+  <a href="https://space.bilibili.com/3494367037753464?spm_id_from=333.1007.0.0">
+    <img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white"/>
+  </a>
+</p>
 
 ---
 <!--
