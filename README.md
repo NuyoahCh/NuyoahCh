@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/NuyoahCh/NuyoahCh/blob/main/.github/assert/chaney.svg" width="120" alt="avatar" align="right" />
+<img src="https://github.com/yoyocraft/yoyocraft/blob/master/assets/angry.gif" width="120" alt="avatar" align="right" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+NuyoahCh;Welcome+to+my+GitHub!;nuyoahch.online)](https://git.io/typing-svg)
 
