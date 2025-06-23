@@ -1,15 +1,3 @@
-## Hi there 👋
-
-<img src="https://github.com/yoyocraft/yoyocraft/blob/master/assets/angry.gif" width="120" alt="avatar" align="right" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+NuyoahCh;Welcome+to+my+GitHub!;nuyoahch.online)](https://git.io/typing-svg)
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuyoahCh)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight)
-![github-snake](https://raw.githubusercontent.com/NuyoahCh/NuyoahCh/output/github-contribution-grid-snake.svg)
-
 <!--
 **NuyoahCh/NuyoahCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
+
+<img src="https://github.com/yoyocraft/yoyocraft/blob/master/assets/angry.gif" width="120" alt="avatar" align="right" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+NuyoahCh;Welcome+to+my+GitHub!;nuyoahch.online)](https://git.io/typing-svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuyoahCh)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight)
+![github-snake](https://raw.githubusercontent.com/NuyoahCh/NuyoahCh/output/github-contribution-grid-snake.svg)
+
