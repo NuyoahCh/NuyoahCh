@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ![github-snake](https://raw.githubusercontent.com/NuyoahCh/NuyoahCh/output/github-contribution-grid-snake.svg)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=tokyonight" width="400" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight&card_width=400" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight&hide=html,css" height="180"/>
 </p>
