@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuyoahCh)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight)
+
 ![github-snake](https://raw.githubusercontent.com/NuyoahCh/NuyoahCh/output/github-contribution-grid-snake.svg)
 
