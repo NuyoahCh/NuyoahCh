@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
----
 
 <img src="https://github.com/yoyocraft/yoyocraft/blob/master/assets/angry.gif" width="120" alt="avatar" align="right" />
 
