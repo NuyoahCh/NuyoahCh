@@ -36,5 +36,5 @@
 ---
 
 <p align="center">
-✨ *“Code is like poetry — each line tells a story.”*
+✨ “Code is like poetry — each line tells a story.”
 </p>
