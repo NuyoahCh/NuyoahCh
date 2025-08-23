@@ -30,8 +30,30 @@
 ---
 
 ### 📈 Visitors & Followers  
+
 ![visitors](https://komarev.com/ghpvc/?username=NuyoahCh&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/NuyoahCh?style=social)
+
+<p align="center">
+  <a href="https://space.bilibili.com/3494367037753464">
+    <img src="https://img.shields.io/badge/Bilibili-主站-blue?logo=bilibili" />
+  </a>
+  <a href="https://www.yuque.com/codereview1024">
+    <img src="https://img.shields.io/badge/语雀-知识库-green?logo=yuque" />
+  </a>
+  <a href="https://leetcode.cn/u/code-review/">
+    <img src="https://img.shields.io/badge/LeetCode-刷题-orange?logo=leetcode" />
+  </a>
+  <a href="https://nuyoahch.online">
+    <img src="https://img.shields.io/badge/Blog-nuyoahch.online-black?logo=hexo" />
+  </a>
+  <a href="https://blog.csdn.net/Darling912">
+    <img src="https://img.shields.io/badge/CSDN-博客-red?logo=csdn" />
+  </a>
+  <a href="https://www.cnblogs.com/codereview">
+    <img src="https://img.shields.io/badge/Cnblogs-博客园-blueviolet?logo=blogger" />
+  </a>
+</p>
 
 ---
 
