@@ -29,36 +29,32 @@
 
 ---
 
-### 📈 Visitors & Followers  
-
-![visitors](https://komarev.com/ghpvc/?username=NuyoahCh&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/NuyoahCh?style=social)
-
----
-
----
-
-## 📚 Social & Blog
-
 <p align="center">
+
+  <!-- Visitors & Followers -->
+  <img src="https://komarev.com/ghpvc/?username=NuyoahCh&label=Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/NuyoahCh?style=flat-square&logo=github" />
+
+  <!-- Social & Blog -->
   <a href="https://space.bilibili.com/3494367037753464">
-    <img src="https://img.shields.io/badge/Bilibili-主站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bilibili-主站-00A1D6?style=flat-square&logo=bilibili&logoColor=white" />
   </a>
   <a href="https://www.yuque.com/codereview1024">
-    <img src="https://img.shields.io/badge/语雀-知识库-27A27A?style=for-the-badge&logo=yuque&logoColor=white" />
+    <img src="https://img.shields.io/badge/语雀-知识库-27A27A?style=flat-square&logo=yuque&logoColor=white" />
   </a>
   <a href="https://leetcode.cn/u/code-review/">
-    <img src="https://img.shields.io/badge/LeetCode-刷题-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-刷题-F89F1B?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://nuyoahch.online">
-    <img src="https://img.shields.io/badge/Blog-nuyoahch.online-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-nuyoahch.online-0E83CD?style=flat-square&logo=hexo&logoColor=white" />
   </a>
   <a href="https://blog.csdn.net/Darling912">
-    <img src="https://img.shields.io/badge/CSDN-博客-FF4D4F?style=for-the-badge&logo=csdn&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSDN-博客-FF4D4F?style=flat-square&logo=csdn&logoColor=white" />
   </a>
   <a href="https://www.cnblogs.com/codereview">
-    <img src="https://img.shields.io/badge/Cnblogs-博客园-8A2BE2?style=for-the-badge&logo=blogger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cnblogs-博客园-8A2BE2?style=flat-square&logo=blogger&logoColor=white" />
   </a>
+
 </p>
 
 ---
