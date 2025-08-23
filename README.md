@@ -16,7 +16,6 @@
 ---
 
 ### 📊 My GitHub Stats
-
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&height=165" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=12&height=165" width="42%" />
@@ -25,10 +24,12 @@
 ---
 
 ### 🛠️ Languages & Tools  
+
 🚀 Go | ☕ Java | 🦀 Rust | 🐍 Python | 🐧 Linux | 🐳 Docker | ☁️ Spring | ⚡ Kafka
 
 ---
-<h3 align="center">🌐 我的主页 & 社交</h3>
+
+### 🌐 我的主页 & 社交
 
 <p align="center">
 
