@@ -17,14 +17,15 @@
 
 ### 📊 My GitHub Stats
 
-<div align="center">
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&height=165" width="45%" />
-  </picture>
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=12&height=165" width="45%" />
-  </picture>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&height=165" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=12&height=165" width="42%" />
 </div>
+
+---
+
+### 🛠️ Languages & Tools  
+🚀 Go | ☕ Java | 🦀 Rust | 🐍 Python | 🐧 Linux | 🐳 Docker | ☁️ Spring | ⚡ Kafka
 
 ---
 
@@ -34,4 +35,6 @@
 
 ---
 
+<p align="center">
 ✨ *“Code is like poetry — each line tells a story.”*
+</p>
