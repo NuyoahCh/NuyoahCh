@@ -11,7 +11,7 @@
 ---
 
 ### 🔥 Contribution Graph
-[![NuyoahCh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NuyoahCh&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![NuyoahCh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NuyoahCh&bg_color=0d1117&color=70a5fd&line=ae81ff&point=fca311&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -19,13 +19,24 @@
 
 <div align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&height=165" width="48%" />
   </picture>
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=12" width="41%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=12&height=165" width="48%" />
   </picture>
 </div>
 
 ---
 
-✨ “Code is like poetry — each line tells a story.”  
+### 🛠️ Languages & Tools  
+🐍 Python | ☕ Java | 🦀 Rust | 🚀 Go | 🐧 Linux | 🐳 Docker | ☁️ Spring | ⚡ Kafka  
+
+---
+
+### 📈 Visitors & Followers  
+![visitors](https://komarev.com/ghpvc/?username=NuyoahCh&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/NuyoahCh?style=social)
+
+---
+
+✨ *“Code is like poetry — each line tells a story.”*
