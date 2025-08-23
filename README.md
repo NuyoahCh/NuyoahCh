@@ -19,10 +19,10 @@
 
 <div align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&height=165" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&height=165" width="49%" />
   </picture>
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=12&height=165" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=12&height=165" width="41%" />
   </picture>
 </div>
 
