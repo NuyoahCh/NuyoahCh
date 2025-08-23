@@ -1,22 +1,6 @@
-<!--
-**NuyoahCh/NuyoahCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
 ## Hi there 👋
 
-
 <img src="https://github.com/yoyocraft/yoyocraft/blob/master/assets/angry.gif" width="120" alt="avatar" align="right" />
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+NuyoahCh;Welcome+to+my+GitHub!;nuyoahch.online)](https://git.io/typing-svg)
 
@@ -26,8 +10,21 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=tokyonight" height="145"/>
+### 🔥 Contribution Graph
+[![NuyoahCh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NuyoahCh&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight&hide=html,css" height="180"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=12" height="165" />
+
+</div>
+
+---
+
+✨ “Code is like poetry — each line tells a story.”  
