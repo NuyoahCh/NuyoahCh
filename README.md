@@ -25,7 +25,7 @@
 
 ### 🛠️ Languages & Tools  
 
-🚀 Go | ☕ Java | 🦀 Rust | 🐍 Python | 🐧 Linux | 🐳 Docker | ☁️ Spring | ⚡ Kafka
+🚀 Go | ☕ Java | 🦀 Rust | 🐍 Python | 🐧 Linux | 🐬 MySQL | 🧩 Redis | ⚡ Kafka | 🐳 Docker | ☸️ Kubernetes 
 
 ---
 
