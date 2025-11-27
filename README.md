@@ -9,6 +9,4 @@
 </div>
 
 
-欢迎来到我的 Github 主页：
-
-https://github.com/NuyoahCh
+欢迎来到我的 Github 主页 → [github.com/NuyoahCh](https://github.com/NuyoahCh)
