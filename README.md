@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我是 NuyoahCh，开源驱动，输出价值，让复杂可计算。
+我是 Morning，开源驱动，创造价值；坦诚清晰，快速失败；让复杂可计算。
 
 <div style="align-items: center; display: flex;">
 <a target='_blank' href="https://github.com/NuyoahCh">
