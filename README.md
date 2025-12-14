@@ -7,4 +7,6 @@
 </a>
 </div>
 
-[欢迎来到我的 Github 主页](https://github.com/NuyoahCh)
+<a href="https://github.com/NuyoahCh" style="text-decoration: none; color: inherit;">
+  欢迎来到我的 Github 主页
+</a>
