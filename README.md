@@ -7,4 +7,4 @@
 </a>
 </div>
 
-欢迎来到我的 Github 主页 →  <a href="https://github.com/NuyoahCh">github.com/NuyoahCh</a>
+欢迎来到我的 Github 主页 → [github.com/NuyoahCh](https://github.com/NuyoahCh)
