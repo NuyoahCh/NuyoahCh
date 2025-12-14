@@ -3,7 +3,7 @@
 
 <div style="align-items: center; display: flex;">
 <a target='_blank' href="https://github.com/NuyoahCh">
-  <img style="display:inline;margin:initial;max-height:140px" src="https://star-orcin.vercel.app/api?username=NuyoahCh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1" />
+  <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&count_private=true&hide=prs,contribs&show_icons=true&theme=transparent" />
 </a>
 </div>
 
